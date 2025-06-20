@@ -43,6 +43,8 @@
     </Powkiddy_x55>
   </RK3566>
   <RK3588 bootmethod="extlinux">
+    <file>rk3588s-nanopi-r6c</file>
+    <file>rk3588s-nanopi-r6s</file>
     <file>rk3588s-gameforce-ace</file>
     <file>rk3588-orangepi-5-plus</file>
     <file>rk3588-orangepi-5-max</file>
